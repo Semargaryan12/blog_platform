@@ -1,7 +1,7 @@
 PORT = 9000
 CLIENT_URL = 'http://localhost:3000'
 
-DB_URL='mongodb+srv://margaryanseyran10:qwerty2001@cluster0.obifqzn.mongodb.net/'
+DB_URL='Your_db_url'
 
 
 JWT_ACCESS_SECRET='qwertytdgfhjxdcvbvtyftyftydjyuygytdeztdtfjghbvgcytvhgvhcbkjdcbhxdf'
